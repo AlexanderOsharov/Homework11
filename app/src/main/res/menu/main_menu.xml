@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Quadratic equations"
+        android:id="@+id/xx"
+        android:icon="@drawable/foooo_xx"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="1"
+        />
+
+    <item
+        android:title="Equations"
+        android:id="@+id/x"
+        android:icon="@drawable/ic_x"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="2"
+        />
+
+
+</menu>
